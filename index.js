@@ -9,20 +9,19 @@ function theBeatlesPlay(musicians,instruments){
 }
 
 function johnLennonFacts(facts){
-  let str = '', i = 0, aList = [];
+  let i = 0, fList = [];
   while (i < facts.length) {
     i = i++;
-    str = ;
-    aList.push(str);
+    fList.push(facts[i] + "!!!");
   }
-  return aList;
+  return fList;
 }
 
 function iLoveTheBeatles(n){
-  let result = [], i = 0;
+  let rList = [], i = 0;
   do {
     i = i += 1;
-    result.push("I love theBeatles!");
+    rList.push("I love theBeatles!");
   } while (n < 15);
-  return a;
+  return rList;
 }
