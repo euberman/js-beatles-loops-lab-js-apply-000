@@ -1,6 +1,7 @@
 // add solution here
 function theBeatlesPlay(musicians,instruments){
-  var firstArray = [];
+  let firstArray = [];
+  for ()
 }
 
 function johnLennonFacts(){
