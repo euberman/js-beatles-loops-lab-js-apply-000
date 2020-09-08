@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(n){
   let result = [], i = 0;
   do {
-    i = i++;
+    i = i += 1;
     result.push("I love theBeatles!");
   } while (n < 15);
   return a;
