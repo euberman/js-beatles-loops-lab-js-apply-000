@@ -19,5 +19,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(n){
   let a = [];
-  
+  do {
+    
+  } while (n < 15);
 }
