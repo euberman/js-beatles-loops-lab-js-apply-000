@@ -1,8 +1,12 @@
 // add solution here
-function theBeatlesPlay(){
+function theBeatlesPlay(musicians,){
   
 }
 
 function johnLennonFacts(){
+  
+}
+
+function iLoveTheBeatles(){
   
 }
