@@ -24,7 +24,7 @@ function iLoveTheBeatles(n){
   var rList = [], i = 0;
   do {
     n = n += 1;
-    rList.push("I love theBeatles!");
+    rList.push("I love the Beatles!");
   } while (n < 15);
   return rList;
 }
